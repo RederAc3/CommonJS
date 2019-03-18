@@ -1,0 +1,23 @@
+{
+  "name": "commonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RederAc3/CommonJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RederAc3/CommonJS/issues"
+  },
+  "homepage": "https://github.com/RederAc3/CommonJS#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
